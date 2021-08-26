@@ -4,7 +4,7 @@
 
 <br>
 
-## :camera: Demonstração
+## :camera: Demonstração / Demonstration
 
 Confira aqui / Check it out: https://react-quiz-app-2021.netlify.app/
 
